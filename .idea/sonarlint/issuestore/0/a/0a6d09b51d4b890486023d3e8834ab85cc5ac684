@@ -1,0 +1,6 @@
+
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç°­šÿÿÿÿÿ8¦ŠÖ©Ï0
+I
+java:S1128"-Remove this unused import 'org.junit.Assert'.(­ŞL8çúú«Ï0
+O
+java:S1128"2Remove this unused import 'org.hamcrest.Matchers'.(ÕÓ˜ï8çúú«Ï0
